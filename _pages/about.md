@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Korea University</a>. Address. <a href=koparkrea@gmail.com">Contact Email</a>. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: dogyun.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am a M.S & Ph.D Integrated Student in the Department of Computer Science and Engineering at Korea University, Seoul, Republic of Korea, advised by [Prof. Hyunwoo J. Kim](https://scholar.google.com/citations?hl=en&user=LfBoJt8AAAAJ&view_op=list_works&sortby=pubdate). My research interests are <b><i>Generative AI in computer vision</i></b>, especially in making efficient and effective <b><i>diffusion models/rectified flows</i></b>.
+My ultimate goal is to push the boundaries of generative AI to enable more creative, efficient, and controllable solutions for real-world applications, from <b><i>content creation</i></b> to <b><i>scientific simulations</i></b>.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am actively seeking opportunities to contribute to impactful projects in the field of Generative AI. If you are interested in collaboration or have opportunities that align with my expertise, please feel free to reach out to me via contact email.
