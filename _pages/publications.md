@@ -2,19 +2,17 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Conference / Journal Publications / Preprints
+description: "(&#x2A) denotes equal contribution"
+years: [2024, 2023, 2022]
 nav: true
 nav_order: 2
 ---
-
 <!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-<!-- q{% include bib_search.liquid %} -->
-
 <div class="publications">
 
-{% bibliography %}
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
 
 </div>
